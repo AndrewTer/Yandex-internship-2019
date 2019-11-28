@@ -1,6 +1,6 @@
 # Стажировка 2019 - Фронтенд
 
-### A. Картинка с заданной вариативностью
+### A. Картинка с заданной вариативностью ([link](https://github.com/AndrewTer/Yandex-internship-2019/tree/master/Task-A))
 
 ![alt-текст](https://github.com/AndrewTer/Yandex-internship-2019/blob/master/statement-image.png "Картинка с заданной вариативностью")
 
@@ -51,7 +51,7 @@
     </body>  
 </html>
 ```
-### B. Поиск чисел в массиве с определённой суммой
+### B. Поиск чисел в массиве с определённой суммой ([link](https://github.com/AndrewTer/Yandex-internship-2019/tree/master/Task-B))
 
 Дан массив целых чисел и целое число k. Нужно определить, есть ли в массиве два числа, сумма которых равна k. 
 
@@ -71,7 +71,7 @@ module.exports = function(nums, k) {
    // ваш код здесь  
 }
 ```
-### C. Объединение отсортированных массивов
+### C. Объединение отсортированных массивов ([link](https://github.com/AndrewTer/Yandex-internship-2019/tree/master/Task-C))
  &nbsp; | &nbsp;
  --- | ---
  Ограничение времени | 1 секунда   
