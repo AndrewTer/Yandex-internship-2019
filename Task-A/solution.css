@@ -1,0 +1,28 @@
+/* чёрный блок */
+div {
+  background-color: #0c0c0c;
+  border-radius: 9px;
+  position: relative;
+	overflow: hidden;
+}
+
+/* белый блок */
+div:after  {
+  content: "";
+  display: block;
+  position: absolute;
+  height: 100%;
+  width: 90px;
+  border-radius: 0 0 9px 9px;
+  background: linear-gradient(178deg, #C8C8C8 0px , transparent 7px), #eeedef;
+}
+
+/* жёлтый блок */
+div:before {
+  background-color: #f8e34b;
+  content: '';
+  border-radius: 9px 9px 0 0;
+  display: block;
+  height: 90px;
+  width: auto;
+}
