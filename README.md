@@ -37,7 +37,7 @@
 <!DOCTYPE html>  
 <html>  
     <head>  
-        <meta http-equiv="Content-Security-Policy" content="default-src ’self’; style-src ’unsafe-inline’ ’self’"/>  
+        <meta http-equiv="Content-Security-Policy" content="default-src 'self'; style-src 'unsafe-inline' 'self'"/>  
         <style>  
             div {  
                 width: 180px;  
